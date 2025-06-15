@@ -1,0 +1,14 @@
+{
+  "name": "vortex",
+  "version": "1.0.0",
+  "description": "A simple signal implementation in TypeScript",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.9.0",
+  "devDependencies": {
+    "tsx": "^4.20.2",
+    "typescript": "^5.8.3"
+  }
+}
